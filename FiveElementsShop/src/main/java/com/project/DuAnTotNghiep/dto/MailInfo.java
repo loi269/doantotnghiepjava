@@ -21,7 +21,8 @@ public class MailInfo {
 
     public MailInfo(String to, String subject, String body) {
         super();
-        this.from = "FPT Polytechnic <poly@fpt.edu.vn>";
+        this.from = "Itplus academy <itplus@it.edu.vn>";
+        // this.from = "FPT Polytechnic <poly@fpt.edu.vn>";
         this.to = to;
         this.subject = subject;
         this.body = body;
